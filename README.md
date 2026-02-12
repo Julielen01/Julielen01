@@ -1,4 +1,3 @@
-## 🐍 Minhas Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julielen01/Julielen01/output/github-contribution-grid-snake-dark.svg">
