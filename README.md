@@ -23,18 +23,10 @@ Você acaba de entrar no terminal da Julielen. Um **Bug Crítico** está tentand
 > Itens equipados para garantir a qualidade do sistema.
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,robotframework,selenium,postgres,aws,jira,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,vscode,idea,pycharm,aws,postman,linux,git,github" />
 </div>
 
 ---
-
-## 📈 Mission Progress (XP)
-| Skill | Level | Progress Bar |
-| :--- | :--- | :--- |
-| **Python Mastery** | `LVL 75` | ![Python](https://progress-bar.dev/75/?title=Python&color=3776AB) |
-| **QA Automation** | `LVL 85` | ![QA](https://progress-bar.dev/85/?title=Testing&color=43B02A) |
-| **SQL Database** | `LVL 60` | ![SQL](https://progress-bar.dev/60/?title=DB&color=4479A1) |
-| **A11y (eMAG/ASES)**| `LVL 80` | ![A11y](https://progress-bar.dev/80/?title=A11y&color=005A9C) |
 
 ## 🐍 Activity Map
 <p align="center">
