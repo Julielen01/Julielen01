@@ -5,7 +5,7 @@ Você acaba de entrar no terminal da Julielen. Um **Bug Crítico** está tentand
 ### 🚩 Escolha sua ação:
 * [🛠️ Tentar debugar usando Python](https://github.com/Julielen01/Julielen01/issues/new?title=Ação:+Debugar+com+Python&body=Eu+escolho+usar+Python+para+caçar+esse+bug!)
 * [🔍 Rodar um teste automatizado no Robot Framework](https://github.com/Julielen01/Julielen01/issues/new?title=Ação:+Rodar+Robot+Framework&body=Vou+submeter+o+código+ao+teste+de+fogo.)
-* [♿ Verificar se o bug afeta a Acessibilidade (eMAG)](https://github.com/Julielen01/Julielen01/issues/new?title=Ação:+Checar+Acessibilidade&body=Garantindo+que+todos+possam+ver+a+solução.)
+* [♿ Verificar se o bug afeta a Acessibilidade](https://github.com/Julielen01/Julielen01/issues/new?title=Ação:+Checar+Acessibilidade&body=Garantindo+que+todos+possam+ver+a+solução.)
 
 ---
 
