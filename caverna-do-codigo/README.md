@@ -1,6 +1,6 @@
 # 🕳️ A Caverna do Código Obscuro
 
-Você entrou em uma área onde o código não é testado há anos. O ar é pesado e cheio de **Bugs de Regressão** que ameaçam a integridade do sistema **A**.
+Você entrou em uma área onde o código não é testado há anos. O ar é pesado e cheio de **Bugs de Regressão** que ameaçam a integridade do sistema **007**.
 
 **Sua Missão:** Garantir a qualidade e a rastreabilidade antes que o sistema colapse sob falhas funcionais.
 
