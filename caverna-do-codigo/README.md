@@ -1,9 +1,12 @@
 # 🕳️ A Caverna do Código Obscuro
-Você entrou em uma área onde o código não é testado há anos. O ar é pesado e cheio de **Bugs de Regressão**.
 
-**Sua Missão:** Garantir a qualidade antes que o sistema colapse.
+Você entrou em uma área onde o código não é testado há anos. O ar é pesado e cheio de **Bugs de Regressão** que ameaçam a integridade do sistema **A**.
 
-### ⚔️ Escolha seu equipamento:
-* [🐍 Usar scripts Python para automatizar a limpeza](https://github.com/Julielen01/Julielen01/blob/main/caverna-do-codigo/vitoria.md)
-* [🤖 Invocar o Robot Framework para uma varredura completa](https://github.com/Julielen01/Julielen01/blob/main/caverna-do-codigo/vitoria.md)
-* [🏃 Fugir (Voltar para o início)](https://github.com/Julielen01/Julielen01)
+**Sua Missão:** Garantir a qualidade e a rastreabilidade antes que o sistema colapse sob falhas funcionais.
+
+### ⚔️ Escolha seu equipamento de QA:
+
+* [🐍 Rodar scripts Python de verificação funcional](https://github.com/Julielen01/Julielen01/blob/main/caverna-do-codigo/vitoria.md)
+* [🤖 Invocar o Robot Framework para validar a API Restful-Booker](https://github.com/Julielen01/Julielen01/blob/main/caverna-do-codigo/vitoria.md)
+* [♿ Aplicar auditoria ASES para abrir caminho com acessibilidade](https://github.com/Julielen01/Julielen01/blob/main/vale-da-acessibilidade/README.md)
+* [🏃 Fugir (Voltar para o início do terminal)](https://github.com/Julielen01/Julielen01)
