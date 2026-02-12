@@ -7,6 +7,7 @@ Você acaba de entrar no terminal da Julielen. Um **Bug Crítico** está tentand
 * [🛠️ Tentar debugar usando Python](https://github.com/Julielen01/Julielen01/blob/main/caverna-do-codigo/README.md)
 * [🤖 Rodar um teste automatizado no Robot Framework](https://github.com/Julielen01/Julielen01/blob/main/caverna-do-codigo/README.md)
 * [♿ Verificar se o bug afeta a Acessibilidade](https://github.com/Julielen01/Julielen01/blob/main/vale-da-acessibilidade/README.md)
+* [🧪 Entrar no Laboratório de Desenvolvimento](https://github.com/Julielen01/Julielen01/blob/main/laboratorio-007/README.md)
 
 ---
 
