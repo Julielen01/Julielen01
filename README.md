@@ -2,10 +2,11 @@
 
 Você acaba de entrar no terminal da Julielen. Um **Bug Crítico** está tentando destruir o código do projeto **A**! O que você faz?
 
-### 🚩 Escolha sua ação:
-* [🛠️ Tentar debugar usando Python](https://github.com/Julielen01/Julielen01/issues/new?title=Ação:+Debugar+com+Python&body=Eu+escolho+usar+Python+para+caçar+esse+bug!)
-* [🔍 Rodar um teste automatizado no Robot Framework](https://github.com/Julielen01/Julielen01/issues/new?title=Ação:+Rodar+Robot+Framework&body=Vou+submeter+o+código+ao+teste+de+fogo.)
-* [♿ Verificar se o bug afeta a Acessibilidade](https://github.com/Julielen01/Julielen01/issues/new?title=Ação:+Checar+Acessibilidade&body=Garantindo+que+todos+possam+ver+a+solução.)
+## 🚩 Escolha sua ação (Operação 007):
+
+* [🛠️ Tentar debugar usando Python](https://github.com/Julielen01/Julielen01/blob/main/caverna-do-codigo/README.md)
+* [🤖 Rodar um teste automatizado no Robot Framework](https://github.com/Julielen01/Julielen01/blob/main/caverna-do-codigo/README.md)
+* [♿ Verificar se o bug afeta a Acessibilidade](https://github.com/Julielen01/Julielen01/blob/main/vale-da-acessibilidade/README.md)
 
 ---
 
