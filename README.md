@@ -1,12 +1,17 @@
-## 👾 Meu Bichinho Virtual
-Ajude a manter meu bichinho vivo enquanto eu estudo QA!
+# 🕹️ Jogo Lig 4 no meu Perfil!
+
+Clique em um número para soltar sua peça:
 
 <p align="center">
-  <img src="https://my-tamagotchi.vercel.app/api/v1/tamagotchi/Julielen01" />
+  <img src="https://raw.githubusercontent.com/Julielen01/connect4/master/board.png" />
 </p>
 
 <p align="center">
-  <a href="https://my-tamagotchi.vercel.app/api/v1/tamagotchi/Julielen01/feed">🍎 Alimentar</a> | 
-  <a href="https://my-tamagotchi.vercel.app/api/v1/tamagotchi/Julielen01/play">🎮 Brincar</a> | 
-  <a href="https://my-tamagotchi.vercel.app/api/v1/tamagotchi/Julielen01/sleep">😴 Dormir</a>
+  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C1">1</a> | 
+  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C2">2</a> | 
+  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C3">3</a> | 
+  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C4">4</a> | 
+  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C5">5</a> | 
+  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C6">6</a> | 
+  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C7">7</a>
 </p>
