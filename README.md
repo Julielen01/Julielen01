@@ -1,17 +1,32 @@
-# 🕹️ Jogo Lig 4 no meu Perfil!
+# 🎮 Adventure Quest: Julielen01's Realm
 
-Clique em um número para soltar sua peça:
+Você acaba de entrar no terminal da Julielen. Um **Bug Crítico** está tentando destruir o código do projeto **007**! O que você faz?
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Julielen01/connect4/master/board.png" />
+### 🚩 Escolha sua ação:
+* [🛠️ Tentar debugar usando Python](https://github.com/Julielen01/Julielen01/issues/new?title=Ação:+Debugar+com+Python&body=Eu+escolho+usar+Python+para+caçar+esse+bug!)
+* [🔍 Rodar um teste automatizado no Robot Framework](https://github.com/Julielen01/Julielen01/issues/new?title=Ação:+Rodar+Robot+Framework&body=Vou+submeter+o+código+ao+teste+de+fogo.)
+* [♿ Verificar se o bug afeta a Acessibilidade (eMAG)](https://github.com/Julielen01/Julielen01/issues/new?title=Ação:+Checar+Acessibilidade&body=Garantindo+que+todos+possam+ver+a+solução.)
+
+---
+
+## 🏆 Player Status
+**Class:** QA Automation Sorceress  
+**Main Weapon:** Python Scripting  
+**Defense:** SQL Normalization  
+**Special Skill:** Web Accessibility (A11y)
+
+---
+
+## 🛠️ Tecnologias (Equipamentos)
+<p align="left">
+  <img src="https://img.shields.io/badge/Level-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Level-Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Level-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
+---
+
+## 🐍 Activity Map
 <p align="center">
-  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C1">1</a> | 
-  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C2">2</a> | 
-  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C3">3</a> | 
-  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C4">4</a> | 
-  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C5">5</a> | 
-  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C6">6</a> | 
-  <a href="https://github.com/Julielen01/connect4/issues/new?title=c4%7C7">7</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Julielen01&theme=dracula&area=true&hide_border=true" width="100%" />
 </p>
