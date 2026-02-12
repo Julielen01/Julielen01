@@ -1,6 +1,6 @@
 # 🎮 Adventure Quest: Julielen01's Realm
 
-Você acaba de entrar no terminal da Julielen. Um **Bug Crítico** está tentando destruir o código do projeto **007**! O que você faz?
+Você acaba de entrar no terminal da Julielen. Um **Bug Crítico** está tentando destruir o código do projeto **A**! O que você faz?
 
 ### 🚩 Escolha sua ação:
 * [🛠️ Tentar debugar usando Python](https://github.com/Julielen01/Julielen01/issues/new?title=Ação:+Debugar+com+Python&body=Eu+escolho+usar+Python+para+caçar+esse+bug!)
