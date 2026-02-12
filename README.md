@@ -19,21 +19,12 @@ Você acaba de entrar no terminal da Julielen. Um **Bug Crítico** está tentand
 
 ---
 
-## 🎒 Inventário de Gadgets (Tech Stack)
+## 🛠️ Inventário de Gadgets (Tech Stack)
 > Itens equipados para garantir a qualidade do sistema.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,robotframework,selenium,postgres,aws,jira,postman,git,github" />
 </div>
-
----
-
-## 🛠️ Tecnologias (Equipamentos)
-<p align="left">
-  <img src="https://img.shields.io/badge/Level-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Level-Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Level-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
 
 ---
 
