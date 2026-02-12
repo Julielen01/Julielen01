@@ -1,10 +1,12 @@
-## ♟️ Vamos jogar uma partida de Xadrez?
-Clique em uma peça para fazer sua jogada!
+## 👾 Meu Bichinho Virtual
+Ajude a manter meu bichinho vivo enquanto eu estudo QA!
 
 <p align="center">
-  <img src="https://github-chess-game.vercel.app/api/view?username=Julielen01" />
+  <img src="https://my-tamagotchi.vercel.app/api/v1/tamagotchi/Julielen01" />
 </p>
 
 <p align="center">
-  <a href="https://github-chess-game.vercel.app/api/move?username=Julielen01">Clique aqui para ver as jogadas disponíveis!</a>
+  <a href="https://my-tamagotchi.vercel.app/api/v1/tamagotchi/Julielen01/feed">🍎 Alimentar</a> | 
+  <a href="https://my-tamagotchi.vercel.app/api/v1/tamagotchi/Julielen01/play">🎮 Brincar</a> | 
+  <a href="https://my-tamagotchi.vercel.app/api/v1/tamagotchi/Julielen01/sleep">😴 Dormir</a>
 </p>
